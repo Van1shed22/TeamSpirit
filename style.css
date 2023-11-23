@@ -1,3 +1,8 @@
-.img{
-    background-image: url("src/image_1.png");
+main{
+    background-image: url('src\image_1.png');
+    background-size: cover;
+    height: 400px;
+
+    width: 400px;
+
 }
