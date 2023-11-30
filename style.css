@@ -1,8 +1,15 @@
 main{
-    background-image: url('src\image_1.png');
+    background-image: url(src/image_1.png);
     background-size: cover;
-    height: 400px;
-
-    width: 400px;
-
+    height: 850px;
+    width: 1570px;
+}
+p{
+    padding: 10px ;
+    font-size:30px;
+}
+button{
+    height: 100px;
+    width: 380px; 
+    padding-top: 0px ;
 }
