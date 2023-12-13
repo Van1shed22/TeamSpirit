@@ -13,3 +13,32 @@ button{
     width: 380px; 
     padding-top: 0px ;
 }
+.text2{
+    
+   text-align: left;
+   
+  
+}
+.center{
+    
+    text-align:center;
+    
+    margin-top: 1px;
+}
+.pagetwo{
+    display: flex;
+    background: #E58716;
+    width: 100%;
+}
+.img2{
+   float:right;
+   width: 67%;
+   height: 70%;
+   margin-top: 50px;
+}
+.obshii_text{
+    float:left;
+    width: 30%;
+    padding-left: 7px;   
+}
+
