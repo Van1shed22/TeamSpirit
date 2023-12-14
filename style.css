@@ -10,8 +10,12 @@ p{
 }
 button{
     height: 100px;
-    width: 380px; 
-    padding-top: 0px ;
+    width: 450px; 
+    background-color: white;
+
+}
+.button1{
+    
 }
 .text2{
     
@@ -26,7 +30,7 @@ button{
     margin-top: 1px;
 }
 .pagetwo{
-    display: flex;
+    display: none;
     background: #E58716;
     width: 100%;
 }
@@ -35,10 +39,20 @@ button{
    width: 67%;
    height: 70%;
    margin-top: 50px;
-}
+  }
 .obshii_text{
     float:left;
     width: 30%;
     padding-left: 7px;   
 }
-
+.pageone{
+    display: flex;
+}
+header{
+    display: flex;
+   vertical-align: center;
+}
+#logo{
+    width: 350px;
+    height: 80px;
+}
