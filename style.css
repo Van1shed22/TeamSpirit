@@ -1,3 +1,18 @@
+@media (orientation: portrait) and (max-width: 450px){
+.text1{
+width: 300px;
+background-color: #f5f5f5;
+}
+.text2{
+width: 300px;
+}
+.img2{
+    width: 100px;
+    height: 100px;
+}
+}
+
+
 main{
     background-image: url(src/image_1.png);
     background-size: cover;
